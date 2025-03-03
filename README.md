@@ -1,4 +1,4 @@
-# actl2102_assignment
+# actl2102assignment
 
 Submitted for ACTL 2102 - Foundations of Actuarial Modelling.
 
